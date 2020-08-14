@@ -1,12 +1,12 @@
 import { Entity, Column, PrimaryGeneratedColumn } from 'typeorm';
 
-@Entity('appointment')
+@Entity('appointments')
 class Appointment {
 
   @PrimaryGeneratedColumn('uuid')
   id: string;
 
-  @Column('string')
+  @Column()
   provider: string;
 
   @Column('timestamp with time zone')
