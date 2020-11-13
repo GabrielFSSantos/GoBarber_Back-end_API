@@ -6,7 +6,7 @@
 ### Este repositório é referente ao back-end da aplicação.
 
 > :wrench:  Projeto criado para estudar e praticar os autenticação, validação, redirecionamento, rotas da aplicação e usabilidade da aplicação. <br><br>
-> :books: O GoBarber, é uma aplicação para conectar barbeiros/cabelereiros com seus clientes. Fazendo agendamentos de acordo com o que o profissinal tem de dias e horários disponíveis. Desenvolvemos a aplicação do zero, com backend conectado ao banco de dados relacional(Postgres), web(ReacJS)e mobile(React Native).
+> :books: O GoBarber, é uma aplicação para conectar barbeiros/cabeleireiros com seus clientes. Fazendo agendamentos de acordo com o que o profissional tem de dias e horários disponíveis. Desenvolvemos a aplicação do zero, com backend conectado ao banco de dados relacional(Postgres), web(ReacJS)e mobile(React Native).
 
 
 ## Requirements
