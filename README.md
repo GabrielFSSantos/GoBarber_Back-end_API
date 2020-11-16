@@ -36,7 +36,7 @@
 >PASSWORD: docker
 >```
 
->Instale todas as dependências do banco de dados
+>Instale todas as dependências do banco de dados<br>
 ``yarn typeorm:migration: run``
 
 ## 💻  Executando
