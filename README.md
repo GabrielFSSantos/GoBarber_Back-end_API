@@ -23,10 +23,10 @@
 >2. Crie um contêiner postgres no terminal docker: ``docker run --name postgres -e POSTGRES_PASSWORD = docker -p 5432: 5432 -d postgres``.
 >3. Inicie o container criado: ``docker start postgres``.<br>
 
->Executar na raiz do projeto o seguinte comando para instalar as dependências
->``yarn install`` 
->ou
-``npm install``
+>Executar na raiz do projeto o seguinte comando para instalar as dependências <br>
+>``yarn install``<br>
+>ou <br>
+>``npm install``
 
 >Abra o DBeaver e crie uma nova conexão, inserindo os dados:
 >``` 
@@ -40,9 +40,7 @@
 ``yarn typeorm:migration: run``
 
 ## 💻  Executando
-```sh
-yarn dev:server
-```
+>``yarn dev:server``<br>
 >O servidor irá iniciar na porta: 3333 - vá para http://localhost:3333
 
 ## :raising_hand: Contribuindo
